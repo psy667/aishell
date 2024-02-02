@@ -11,14 +11,13 @@ To run this project, ensure you have node.js installed and then run:
 
 ```
 npm install
-
 ```
 
-After installing the dependencies, you can start the AI shell by running:
+After installing the dependencies, you need to set your OpenAI API key in aishell.js 
 
+After that, you can start the AI shell by running:
 ```
 node aishell.js
-
 ```
 
 Enjoy interacting with AI through the command line!
