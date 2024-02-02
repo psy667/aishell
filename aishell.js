@@ -12,7 +12,7 @@ const mutableStdout = new stream.Writable({
 });
 
 const openAIApi = new OpenAI({
-  apiKey: "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",
+  apiKey: "YOUR_API_KEY_HERE",
 });
 
 async function mixtral(messages) {
